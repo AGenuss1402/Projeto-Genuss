@@ -1,0 +1,114 @@
+=================================================================
+           GENUSS AUTOMAÇÃO - SISTEMA DE VENDAS
+                    TERMOS DE LICENÇA
+=================================================================
+
+CONTRATO DE LICENÇA DE USO DE SOFTWARE
+
+Este Contrato de Licença ("Contrato") é um acordo legal entre você
+("Usuário" ou "Licenciado") e Genuss Automação ("Licenciador")
+para o uso do software Genuss Automação Sistema de Vendas
+("Software").
+
+Ao instalar, copiar ou usar este Software, você concorda em ficar
+vinculado aos termos deste Contrato.
+
+=================================================================
+                        1. CONCESSÃO DE LICENÇA
+=================================================================
+
+O Licenciador concede ao Usuário uma licença não exclusiva,
+intransferível e revogável para usar o Software de acordo com
+os termos deste Contrato.
+
+=================================================================
+                        2. RESTRIÇÕES DE USO
+=================================================================
+
+O Usuário NÃO pode:
+
+a) Copiar, modificar, distribuir ou criar trabalhos derivados
+   do Software;
+b) Fazer engenharia reversa, descompilar ou desmontar o Software;
+c) Remover ou alterar avisos de direitos autorais ou outras
+   marcas proprietárias;
+d) Usar o Software para fins ilegais ou não autorizados;
+e) Sublicenciar, alugar, emprestar ou transferir o Software
+   a terceiros sem autorização expressa.
+
+=================================================================
+                        3. PROPRIEDADE INTELECTUAL
+=================================================================
+
+O Software e todos os direitos de propriedade intelectual
+relacionados permanecem propriedade exclusiva do Licenciador.
+Esta licença não transfere nenhum direito de propriedade
+ao Usuário.
+
+=================================================================
+                        4. SUPORTE E ATUALIZAÇÕES
+=================================================================
+
+O Licenciador pode, mas não é obrigado a, fornecer suporte
+técnico, atualizações ou melhorias do Software. Qualquer
+suporte fornecido estará sujeito aos termos deste Contrato.
+
+=================================================================
+                        5. GARANTIA E RESPONSABILIDADE
+=================================================================
+
+O SOFTWARE É FORNECIDO "COMO ESTÁ", SEM GARANTIAS DE QUALQUER
+TIPO, EXPRESSAS OU IMPLÍCITAS. O LICENCIADOR NÃO GARANTE QUE
+O SOFTWARE SERÁ LIVRE DE ERROS OU FUNCIONARÁ ININTERRUPTAMENTE.
+
+EM NENHUMA CIRCUNSTÂNCIA O LICENCIADOR SERÁ RESPONSÁVEL POR
+DANOS DIRETOS, INDIRETOS, INCIDENTAIS, ESPECIAIS OU
+CONSEQUENCIAIS DECORRENTES DO USO OU INCAPACIDADE DE USAR
+O SOFTWARE.
+
+=================================================================
+                        6. PROTEÇÃO DE DADOS
+=================================================================
+
+O Software pode coletar e processar dados para seu funcionamento.
+O Usuário é responsável por garantir conformidade com leis
+aplicáveis de proteção de dados, incluindo a LGPD (Lei Geral
+de Proteção de Dados Pessoais).
+
+=================================================================
+                        7. RESCISÃO
+=================================================================
+
+Este Contrato permanece em vigor até ser rescindido. O
+Licenciador pode rescindir este Contrato imediatamente se
+o Usuário violar qualquer termo. Após a rescisão, o Usuário
+deve cessar todo uso do Software e destruir todas as cópias.
+
+=================================================================
+                        8. LEI APLICÁVEL
+=================================================================
+
+Este Contrato é regido pelas leis da República Federativa
+do Brasil. Qualquer disputa será resolvida nos tribunais
+competentes do Brasil.
+
+=================================================================
+                        9. DISPOSIÇÕES GERAIS
+=================================================================
+
+Se qualquer disposição deste Contrato for considerada inválida,
+as demais disposições permanecerão em pleno vigor. Este Contrato
+constitui o acordo completo entre as partes.
+
+=================================================================
+
+Ao clicar em "Aceito" ou instalar o Software, você confirma
+que leu, compreendeu e concorda em ficar vinculado a todos
+os termos deste Contrato.
+
+Data: Janeiro 2024
+Versão: 1.0
+
+© 2024 Genuss Automação. Todos os direitos reservados.
+
+=================================================================
